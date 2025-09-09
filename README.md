@@ -111,10 +111,10 @@ The system processes structured product data with the following categories:
 
 ```
 Bengali Query: "pet supplier ki ki ache?"
-System Response: Relevant pet products with details and pricing
+System Response: Relevant pet products with details and pricing in Bangla language
 
 Bengali Query: "10000tk er moddhe valo ki mobile ache?"
-System Response: Available mobile phones with specifications
+System Response: Available mobile phones with specifications in Bangla language
 ```
 
 ## Search Strategy
