@@ -114,7 +114,7 @@ Bengali Query: "pet supplier ki ki ache?"
 System Response: Relevant pet products with details and pricing in Bangla language
 
 Bengali Query: "10000tk er moddhe valo ki mobile ache?"
-System Response: Available mobile phones with specifications in Bangla language
+System Response: Available mobile phones with specifications, price range and mobile suggestion in Bangla language
 ```
 
 ## Search Strategy
